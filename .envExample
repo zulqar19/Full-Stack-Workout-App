@@ -1,0 +1,3 @@
+EMAIL_USER = 'Your Email'
+EMAIL_PASS = 'password'
+EMAIL_FROM = 'Your Email'
